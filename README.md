@@ -1,6 +1,6 @@
 # StackServer
 
-Experimenting with GenServerby mimicking a stack data structure. 
+Experimenting with GenServer by mimicking a stack data structure. 
 
 ## Installation
 
